@@ -1,4 +1,4 @@
-# Instâncias
+# Instances
 The instances used were defined in Fernandes et al. (2014) and can bedivided into two sets. The first set consists of 25 instances with 50 factories,100 warehouses and 200 customers. In the second set, also with 25 instances,the size of the problem is doubled, which means 100 factories, 200 warehousesand 400 customers. Both sets are divided into five instance classes with different characteristics.
 
 # How to execute
